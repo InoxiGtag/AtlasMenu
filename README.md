@@ -1,6 +1,6 @@
 ## [Atlas Menu Discord](https://discord.gg/jfGv4pKM5N)
 
-<img width="876" height="770" alt="image" src="https://github.com/user-attachments/assets/7bddb35f-c933-418e-bab9-154ee24e41ae" />
+<img width="263" height="231" alt="image" src="https://github.com/user-attachments/assets/1aff9f36-97da-42da-9816-114b121bca68" />
 
 ## ⏬ How To Install ⏬
 > - Download latest menu
