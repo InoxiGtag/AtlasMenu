@@ -1,6 +1,8 @@
 ## [Atlas Menu Discord](https://discord.gg/jfGv4pKM5N)
 
-<img width="263" height="231" alt="image" src="https://github.com/user-attachments/assets/1aff9f36-97da-42da-9816-114b121bca68" />
+<img width="303" height="271" alt="image" src="https://github.com/user-attachments/assets/1aff9f36-97da-42da-9816-114b121bca68" />
+<img width="150" alt="ArrowRed" src="https://github.com/user-attachments/assets/3c1695ae-bfef-4941-ae7f-f9ef4045eb42" />
+<img width="200" alt="AtlasMenuTransparent" src="https://github.com/user-attachments/assets/78d16e9e-3c1b-4c95-84c9-00f99244accd" />
 
 ## ⏬ How To Install ⏬
 > - Download latest menu
